@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Natalia](https://up.htmlacademy.ru/javascript/19/user/560617).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров] (https://htmlacademy.ru/profile/id7956).
 
 ---
 
